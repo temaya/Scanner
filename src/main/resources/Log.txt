@@ -1,0 +1,80 @@
+{
+	"__CURSOR" : "s=bc9a121f811e48e5afb5b2d2f5357982;i=1;b=73a9cb791be24dec8d3db36b81c9ca52;m=a117fc13;t=580e8f5c58bda;x=f4ba2a1bd768941c",
+	"__REALTIME_TIMESTAMP" : "1549112927685594",
+	"__MONOTONIC_TIMESTAMP" : "2702703635",
+	"_BOOT_ID" : "73a9cb791be24dec8d3db36b81c9ca52",
+	"PRIORITY" : "6",
+	"_TRANSPORT" : "driver",
+	"MESSAGE" : "Allowing runtime journal files to grow to 39.5M.",
+	"_PID" : "5776",
+	"_UID" : "0",
+	"_GID" : "0",
+	"_COMM" : "systemd-journal",
+	"_EXE" : "/lib/systemd/systemd-journald",
+	"_CMDLINE" : "/lib/systemd/systemd-journald",
+	"_SYSTEMD_CGROUP" : "/system/systemd-journald.service",
+	"_SYSTEMD_UNIT" : "systemd-journald.service",
+	"_SELINUX_CONTEXT" : [ 117, 110, 99, 111, 110, 102, 105, 110, 101, 100, 10 ],
+	"_MACHINE_ID" : "db74b248b488248836da1cc256c2cfa1",
+	"_HOSTNAME" : "devlh"
+}
+{
+	"__CURSOR" : "s=bc9a121f811e48e5afb5b2d2f5357982;i=2;b=73a9cb791be24dec8d3db36b81c9ca52;m=a117fcd6;t=580e8f5c58c9d;x=57e5ab4b16f71792",
+	"__REALTIME_TIMESTAMP" : "1549112927685789",
+	"__MONOTONIC_TIMESTAMP" : "2702703830",
+	"_BOOT_ID" : "73a9cb791be24dec8d3db36b81c9ca52",
+	"PRIORITY" : "6",
+	"_TRANSPORT" : "driver",
+	"_PID" : "5776",
+	"_UID" : "0",
+	"_GID" : "0",
+	"_COMM" : "systemd-journal",
+	"_EXE" : "/lib/systemd/systemd-journald",
+	"_CMDLINE" : "/lib/systemd/systemd-journald",
+	"_SYSTEMD_CGROUP" : "/system/systemd-journald.service",
+	"_SYSTEMD_UNIT" : "systemd-journald.service",
+	"_SELINUX_CONTEXT" : [ 117, 110, 99, 111, 110, 102, 105, 110, 101, 100, 10 ],
+	"_MACHINE_ID" : "db74b248b488248836da1cc256c2cfa1",
+	"_HOSTNAME" : "devlh",
+	"MESSAGE" : "Missed 5400 kernel messages",
+	"MESSAGE_ID" : "e9bf28e6e834481bb6f48f548ad13606"
+}
+{
+	"__CURSOR" : "s=bc9a121f811e48e5afb5b2d2f5357982;i=3;b=73a9cb791be24dec8d3db36b81c9ca52;m=a117fce7;t=580e8f5c58cad;x=b42c5100ebd0b853",
+	"__REALTIME_TIMESTAMP" : "1549112927685805",
+	"__MONOTONIC_TIMESTAMP" : "2702703847",
+	"_BOOT_ID" : "73a9cb791be24dec8d3db36b81c9ca52",
+	"_MACHINE_ID" : "db74b248b488248836da1cc256c2cfa1",
+	"_HOSTNAME" : "devlh",
+	"_SOURCE_MONOTONIC_TIMESTAMP" : "2669940166",
+	"_TRANSPORT" : "kernel",
+	"PRIORITY" : "4",
+	"SYSLOG_IDENTIFIER" : "kernel",
+	"MESSAGE" : "[NetFilter-I]IN=eth0 OUT= MAC=08:00:27:32:5a:6a:00:08:e3:ff:fc:28:08:00 SRC=151.101.1.69 DST=10.64.119.57 LEN=2824 TOS=0x00 PREC=0x00 TTL=58 ID=35836 DF PROTO=TCP SPT=443 DPT=47612 WINDOW=59 RES=0x00 ACK PSH URGP=0 "
+}
+{
+	"__CURSOR" : "s=bc9a121f811e48e5afb5b2d2f5357982;i=4;b=73a9cb791be24dec8d3db36b81c9ca52;m=a117fcf3;t=580e8f5c58cb9;x=a00008777371493b",
+	"__REALTIME_TIMESTAMP" : "1549112927685817",
+	"__MONOTONIC_TIMESTAMP" : "2702703859",
+	"_BOOT_ID" : "73a9cb791be24dec8d3db36b81c9ca52",
+	"_MACHINE_ID" : "db74b248b488248836da1cc256c2cfa1",
+	"_HOSTNAME" : "devlh",
+	"_TRANSPORT" : "kernel",
+	"PRIORITY" : "4",
+	"SYSLOG_IDENTIFIER" : "kernel",
+	"_SOURCE_MONOTONIC_TIMESTAMP" : "2669940174",
+	"MESSAGE" : "[NetFilter-O]IN= OUT=eth0 SRC=10.64.119.57 DST=151.101.1.69 LEN=52 TOS=0x00 PREC=0x00 TTL=64 ID=48267 DF PROTO=TCP SPT=47612 DPT=443 WINDOW=295 RES=0x00 ACK URGP=0 "
+}
+{
+	"__CURSOR" : "s=bc9a121f811e48e5afb5b2d2f5357982;i=5;b=73a9cb791be24dec8d3db36b81c9ca52;m=a117fcfc;t=580e8f5c58cc3;x=ecc48879428b14d0",
+	"__REALTIME_TIMESTAMP" : "1549112927685827",
+	"__MONOTONIC_TIMESTAMP" : "2702703868",
+	"_BOOT_ID" : "73a9cb791be24dec8d3db36b81c9ca52",
+	"_MACHINE_ID" : "db74b248b488248836da1cc256c2cfa1",
+	"_HOSTNAME" : "devlh",
+	"_TRANSPORT" : "kernel",
+	"PRIORITY" : "4",
+	"SYSLOG_IDENTIFIER" : "kernel",
+	"_SOURCE_MONOTONIC_TIMESTAMP" : "2669940979",
+	"MESSAGE" : "[NetFilter-O]IN= OUT=eth0 SRC=10.64.119.57 DST=151.101.1.69 LEN=145 TOS=0x00 PREC=0x00 TTL=64 ID=48268 DF PROTO=TCP SPT=47612 DPT=443 WINDOW=295 RES=0x00 ACK PSH URGP=0 "
+}
